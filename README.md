@@ -2,7 +2,7 @@
 
 A Netflix-inspired streaming UI built with **React + Vite**, powered by the **TMDB API**. Features a hero banner, category rows, and in-app trailer playback via YouTube.
 
-🔗 **Live Demo:** [https://your-app.vercel.app](https://your-app.vercel.app)
+🔗 **Live Demo:** [https://netflix-clone-tsion2.vercel.app/](https://netflix-clone-tsion2.vercel.app/)
 
 ---
 
